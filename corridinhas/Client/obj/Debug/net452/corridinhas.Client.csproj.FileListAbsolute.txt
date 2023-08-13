@@ -1,0 +1,11 @@
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\bin\Debug\net452\corridinhas.Client.net.dll
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\bin\Debug\net452\CitizenFX.Core.Client.dll
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\obj\Debug\net452\corridinhas.Client.csproj.AssemblyReference.cache
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\obj\Debug\net452\corridinhas.Client.GeneratedMSBuildEditorConfig.editorconfig
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\obj\Debug\net452\corridinhas.Client.AssemblyInfoInputs.cache
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\obj\Debug\net452\corridinhas.Client.AssemblyInfo.cs
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\obj\Debug\net452\corridinhas.Client.csproj.CoreCompileInputs.cache
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\obj\Debug\net452\corridinhas.Client.csproj.CopyComplete
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\obj\Debug\net452\corridinhas.Client.net.dll
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\bin\Debug\net452\Newtonsoft.Json.dll
+G:\Jogos\fivem\Corridinhas\corridinhas\Client\bin\Debug\net452\Newtonsoft.Json.xml

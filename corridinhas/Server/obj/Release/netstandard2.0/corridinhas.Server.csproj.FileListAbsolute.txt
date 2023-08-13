@@ -1,0 +1,10 @@
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\corridinhas.Server.deps.json
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\corridinhas.Server.net.dll
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\corridinhas.Server.net.pdb
+G:\Jogos\fivem\corridinhas\corridinhas\Server\obj\Release\netstandard2.0\corridinhas.Server.csproj.AssemblyReference.cache
+G:\Jogos\fivem\corridinhas\corridinhas\Server\obj\Release\netstandard2.0\corridinhas.Server.GeneratedMSBuildEditorConfig.editorconfig
+G:\Jogos\fivem\corridinhas\corridinhas\Server\obj\Release\netstandard2.0\corridinhas.Server.AssemblyInfoInputs.cache
+G:\Jogos\fivem\corridinhas\corridinhas\Server\obj\Release\netstandard2.0\corridinhas.Server.AssemblyInfo.cs
+G:\Jogos\fivem\corridinhas\corridinhas\Server\obj\Release\netstandard2.0\corridinhas.Server.csproj.CoreCompileInputs.cache
+G:\Jogos\fivem\corridinhas\corridinhas\Server\obj\Release\netstandard2.0\corridinhas.Server.net.dll
+G:\Jogos\fivem\corridinhas\corridinhas\Server\obj\Release\netstandard2.0\corridinhas.Server.net.pdb

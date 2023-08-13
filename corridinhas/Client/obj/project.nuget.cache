@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5g/6OlvbnYf3DJU+h4Ac2fDdjlcTVMCUleAenbdohFlNY+OuBtttfPjwWXCVmasqC3+PbF125bLlxk+UciN/g==",
+  "success": true,
+  "projectFilePath": "G:\\Jogos\\fivem\\corridinhas\\corridinhas\\Client\\corridinhas.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\citizenfx.core.client\\1.0.6370\\citizenfx.core.client.1.0.6370.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\joaov\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

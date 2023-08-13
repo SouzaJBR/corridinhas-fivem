@@ -1,0 +1,4 @@
+G:\Jogos\fivem\corridinhas\corridinhas\Client\bin\Release\net452\publish\corridinhas.Client.net.dll
+G:\Jogos\fivem\corridinhas\corridinhas\Client\bin\Release\net452\publish\corridinhas.Client.net.pdb
+G:\Jogos\fivem\corridinhas\corridinhas\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll
+G:\Jogos\fivem\corridinhas\corridinhas\Client\bin\Release\net452\publish\Newtonsoft.Json.dll

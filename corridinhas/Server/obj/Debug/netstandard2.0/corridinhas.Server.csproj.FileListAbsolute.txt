@@ -1,0 +1,5 @@
+G:\Jogos\fivem\Corridinhas\corridinhas\Server\obj\Debug\netstandard2.0\corridinhas.Server.csproj.AssemblyReference.cache
+G:\Jogos\fivem\Corridinhas\corridinhas\Server\obj\Debug\netstandard2.0\corridinhas.Server.GeneratedMSBuildEditorConfig.editorconfig
+G:\Jogos\fivem\Corridinhas\corridinhas\Server\obj\Debug\netstandard2.0\corridinhas.Server.AssemblyInfoInputs.cache
+G:\Jogos\fivem\Corridinhas\corridinhas\Server\obj\Debug\netstandard2.0\corridinhas.Server.AssemblyInfo.cs
+G:\Jogos\fivem\Corridinhas\corridinhas\Server\obj\Debug\netstandard2.0\corridinhas.Server.csproj.CoreCompileInputs.cache

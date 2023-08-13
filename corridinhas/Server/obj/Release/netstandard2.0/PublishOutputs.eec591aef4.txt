@@ -1,0 +1,6 @@
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\publish\corridinhas.Server.net.dll
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\publish\corridinhas.Server.deps.json
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\publish\corridinhas.Server.net.pdb
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\publish\Microsoft.CSharp.dll
+G:\Jogos\fivem\corridinhas\corridinhas\Server\bin\Release\netstandard2.0\publish\Newtonsoft.Json.dll
